@@ -13,6 +13,10 @@
   - [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180)
     - [Github](https://github.com/vllm-project/vllm)
 
+# Articles
+## WSC
+- [The Tail at Scale](https://cacm.acm.org/research/the-tail-at-scale/)
+
 # Books
 
 ## DRAM
