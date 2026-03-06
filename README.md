@@ -9,9 +9,10 @@
   - [Large Language Diffusion Models](https://arxiv.org/pdf/2502.09992)
   - [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/pdf/2107.03006)
 
-### vllm
+### System
   - [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180)
     - [Github](https://github.com/vllm-project/vllm)
+  - [FlashAttention: Fast and Memory-Eﬃcient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135)
 
 # Articles
 ## WSC
