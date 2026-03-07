@@ -13,7 +13,7 @@
   - [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180)
     - [Github](https://github.com/vllm-project/vllm)
   - [FlashAttention: Fast and Memory-Eﬃcient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135)
-
+  - [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509)
 # Articles
 ## WSC
 - [The Tail at Scale](https://cacm.acm.org/research/the-tail-at-scale/)
