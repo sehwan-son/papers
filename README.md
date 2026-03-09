@@ -22,3 +22,4 @@
 
 ## DRAM
 - [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-99489-0)
+- [Memory Systems](https://picture.iczhiku.com/resource/eetop/WhiDehfRtzeTyVNn.pdf)
